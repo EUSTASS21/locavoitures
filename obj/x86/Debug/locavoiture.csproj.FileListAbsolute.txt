@@ -1,0 +1,14 @@
+C:\Users\ACER\Desktop\locavoiture\obj\x86\Debug\locavoiture.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\locavoiture\obj\x86\Debug\locavoiture.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\Desktop\locavoiture\obj\x86\Debug\locavoiture.exe.config
+C:\Users\ACER\Desktop\locavoiture\obj\x86\Debug\locavoiture.charg.resources
+C:\Users\ACER\Desktop\locavoiture\obj\x86\Debug\locavoiture.connect.resources
+C:\Users\ACER\Desktop\locavoiture\obj\x86\Debug\locavoiture.Form1.resources
+C:\Users\ACER\Desktop\locavoiture\obj\x86\Debug\locavoiture.menu.resources
+C:\Users\ACER\Desktop\locavoiture\obj\x86\Debug\locavoiture.Properties.Resources.resources
+C:\Users\ACER\Desktop\locavoiture\obj\x86\Debug\locavoiture.UserControl1.resources
+C:\Users\ACER\Desktop\locavoiture\obj\x86\Debug\locavoiture.UserControl2.resources
+C:\Users\ACER\Desktop\locavoiture\obj\x86\Debug\locavoiture.UserControl3.resources
+C:\Users\ACER\Desktop\locavoiture\obj\x86\Debug\locavoiture.UserControl4.resources
+C:\Users\ACER\Desktop\locavoiture\obj\x86\Debug\locavoiture.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\locavoiture\obj\x86\Debug\locavoiture.csproj.CoreCompileInputs.cache
